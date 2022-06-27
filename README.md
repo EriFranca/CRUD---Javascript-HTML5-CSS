@@ -1,7 +1,7 @@
 # CRUD---Javascript-HTML5-CSS3
-https://erifranca.github.io/CRUD---Javascript-HTML5-CSS/
 
-Live Demo: [here](https://muhammadmoiz200099.github.io/CRUD---Javascript-HTML5-CSS3/)
+
+Live Demo: [here](https://erifranca.github.io/CRUD---Javascript-HTML5-CSS/)
 
 ## App includes CRUD OPERATION
  * Insert
